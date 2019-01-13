@@ -7,6 +7,8 @@ Welcome to janga's documentation!
 
 This is my website.  I hope you like it. It's a work in progress.
 
+I have now updated my website! 
+
 Indices and tables
 ==================
 
