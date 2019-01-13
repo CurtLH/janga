@@ -20,7 +20,7 @@ pipeline {
         }
         stage('gh-pages') {
             environment {
-                GH_TOKEN=credentials("GH_TOKEN")
+                GH_TOKEN=credentials("e3ef8d4d-61e8-400e-9d23-8debdd7a6a11")
             }
             steps {
                 sh """#!/bin/bash -il
@@ -38,3 +38,4 @@ pipeline {
         }
     }
 }
+
